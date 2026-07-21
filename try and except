@@ -1,0 +1,24 @@
+rawstar = input("enter a number: ")
+try:
+    ival = int(rawstar)
+except:
+    ival=-1
+if ival > 0:
+    print('Nice work')
+else:
+    print("not a number")
+
+print('chetan')
+x=2
+
+if x<5:
+    print("I love you")
+    
+    
+
+    
+    
+
+
+
+
